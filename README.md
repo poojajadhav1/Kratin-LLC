@@ -2,8 +2,7 @@
 <h3>Problem Statement : How can you help Sunita Sharma (65+ years old) to live a healthier and better life?</h3>
 
 <h3>IDEA</h3>
-We know that 65+ year old women have some kind of issue like blood pressure, blood sugar or Chest pain . that's why we have to know about sunita's past history i.e her blood pressure level, sugar level, cholesterol level and chest pain type . By using this past history ,we predict the accurate health and guidance for sunita 
-For past history or recent history we take a bp, cholesterol, chest pain ,age , sugar level etc. values as input from user and from that values we predict Sunita's health.
+We know that 65+ year old women have some kind of issue like blood pressure, blood sugar or Chest pain . that's why we have to know about sunita's past history i.e her blood pressure level, sugar level, cholesterol level and chest pain type . By using this past history ,we predict the accurate health and guidance for sunita .For past history or recent history we take a bp, cholesterol, chest pain ,age , sugar level etc. values as input from user and from that values we predict Sunita's health.
 
 I used the dataset for this problem statement and worked on that dataset for better results. By applying the machine learning algorithm on the dataset , I get the accurate health of that person(sunita) . And after the recognition of health I will suggest her the proper guidelines.
 
